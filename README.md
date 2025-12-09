@@ -3,17 +3,17 @@
 My name is Ben. I'm a software engineer living in Boston, MA. Graduated Comp. Sci. from University of Maryland - College Park. Work at a big consulting company. Welcome to my GitHub profile. 
 
 Here are some of the projects I'm working on, mostly for fun and learning purposes: 
-- Concourse Codes
-- Synthesia
-- newsdash
-- braindump
+- [Concourse Codes](https://concourse.codes)
+- [Synthesia](https://colors.concourse.codes)
+- [newsdash](https://newsdash.vercel.app/)
+- [braindump](https://brain.concourse.codes)
 - Are.na Generator
-- borice.exposed
+- [borice.exposed](https://borice.exposed)
 - RevenueSpot
 - OpenDataMA
 - BookmarkViz
-- DiscoCat
-- Yelp Audience Builder
+- DiscoCat (retired)
+- Yelp Audience Builder (retired)
 
   
 <!--

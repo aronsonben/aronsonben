@@ -9,10 +9,13 @@ Here are some of the projects I'm working on, mostly for fun and learning purpos
 - [braindump](https://brain.concourse.codes)
 - [borice.exposed](https://borice.exposed)
 - [Is MassSave Environmentally Just?](https://rej.concourse.codes)
+
 Quirky lil app ideas:
 - [MA Town Flag Generator](https://massachusetts-town-flag-generator-640157164110.us-west1.run.app/)
 - [Are.na Generator](https://are-na-style-synthesizer-180066961304.us-west1.run.app/)
+- [ConcourseQR](https://concourse-qr-180066961304.us-west1.run.app/) (personal QR code tracker so I don't have to pay for one lol)
 - BookmarkViz
+
 Older Ideas (retired):
 - [RevenueSpot](https://www.concourse.codes/projects/revenuespot.html)
 - DiscoCat (retired)

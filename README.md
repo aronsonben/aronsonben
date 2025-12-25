@@ -1,54 +1,66 @@
-## heyo!
+## <img src="img/ben.gif" alt="ben pixel avatar" height="32" style="vertical-align:middle; margin-left:8px;"/> heyo! 
 
-My name is Ben. I'm a software engineer living in Boston, MA. UMD CS '18 - Go Terps. Work at a big consulting company. Welcome to my GitHub profile. 
+I'm Ben Aronson. 
 
-Here are some of the projects I'm working on, mostly for fun and learning purposes: 
-- [Concourse Codes](https://concourse.codes) (personal home)
-- [Synthesia](https://colors.concourse.codes)
-- [newsdash](https://newsdash.vercel.app/)
-- [braindump](https://brain.concourse.codes)
-- [borice.exposed](https://borice.exposed)
-- [Is MassSave Environmentally Just?](https://rej.concourse.codes)
+I'm a software engineer and artist currently living in Boston, MA. My work experience spans several tech stacks, though most recently I have focused on AI-enabled web applications. 
 
-Quirky lil app ideas:
-- [MA Town Flag Generator](https://massachusetts-town-flag-generator-640157164110.us-west1.run.app/)
-- [Are.na Generator](https://are-na-style-synthesizer-180066961304.us-west1.run.app/)
-- [ConcourseQR](https://concourse-qr-180066961304.us-west1.run.app/) (personal QR code tracker so I don't have to pay for one lol)
-- BookmarkViz
+Most of my work lives under [**Concourse**](https://concourse.codes), my oft-ambiguous brand combining my interests in coding, climate (action), cities (urbanism), culture (music), and conversation (contemplation). 
 
-Older Ideas (retired):
-- [RevenueSpot](https://www.concourse.codes/projects/revenuespot.html)
-- DiscoCat (retired)
-- Yelp Audience Builder (retired)
+I'm very open to chatting and collaborating, especially on climate or green-tech focused projects. Hit me up!
 
-*Note:* Every so often I will update the project statuses below. 
+### Projects
 
-## Project Statuses
+I love tinkering with new ideas, so this list will act as a source of truth for my latest project work:
 
-### Concourse Codes
-__Description:__ This is my main personal site. 
-__Status:__ It is **working**, but missing some links to my latest projects
+[aronsonben.github.io](https://aronsonben.github.io) - personal homepage
 
-### Synthesia
-__Description:__ Crowdsource color palettes for your music 
-__Status:__ It is **working**, but the UI is a bit confusing
+[Concourse Codes](https://concourse.codes) - concourse  homepage
 
-### braindump
-__Description:__ Make sense of what's going on over time. 
-__Status:__ It is **partially working**, and not updated recently.
+[NewsDash](https://newsdash.concourse.codes) - personalized AI-powered web search & summarization for the latest local & global climate news
 
-### NewsDash
-__Description:__ AI-powered news dashboard for topics I'm passionate about.
-__Status:__ It is **working**, but may have a few QoL issues
+[Is MassSave Environmentally Just?](https://rej.concourse.codes) - cross-sectional analysis into MassSave participation rates as compared to regional environmental justice areas in the State of MA
+ 
+[Synthesia](https://colors.concourse.codes) - crowdsourced color palettes for your music
 
-### MA Town Flag Generator
-__Description:__ Gemini-powered flag generator for MA towns 
-__Status:__ It is **working**, but may feel a bit spartan
+[Are.na Channel LLM Fine Tuner](https://arena.concourse.codes) - fine tune an LLM on any are.na channel for precise image generation
 
-### More to come...
-__Description:__ ... 
-__Status:__ ...
+[MA Town Flag Generator](https://massachusetts-town-flag-generator-640157164110.us-west1.run.app/) - fun little experiment to generate town flags for Massachusetts towns based off basic town info & style guidelines
 
+[braindump](https://brain.concourse.codes) - {broken} ADHD-aligned tracker for thoughts, ideas, and goals with AI-assist
+
+[ConcourseQR](https://concourse-qr-180066961304.us-west1.run.app/) - personal QR code generator & tracker (so I don't have to pay for one lol)
+
+[borice.exposed](https://borice.exposed) - ;)
+
+
+__Retired or Undeveloped Ideas:__
+
+[RevenueSpot](https://www.concourse.codes/projects/revenuespot.html)
+
+BookmarkViz - re-imagine how browser bookmarks are displayed
+
+DiscoCat - become your own A&R
+
+Yelp Audience Builder - try new global cuisines in your area
+
+
+### Current Topics of Interest
+
+As of late, I am diving deep into:
+- Solarpunk
+- Early web
+- Y2k design
+- Exploratory AI art
+- Jazzy drum & bass
+- Climate action as a whole, always!
+
+
+### Contact Me
+
+I'm adverse to social media but have accounts here:
+
+- [Bluesky](https://bsky.app/profile/concourse-codes.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/benjamin-aronson)
 
 <!--
 **aronsonben/aronsonben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,3 +76,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🐢 University of Maryland - College Park | CS '18 🐢 Go Terps.
